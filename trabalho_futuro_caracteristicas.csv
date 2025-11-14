@@ -1,0 +1,201 @@
+﻿Id_Pesquisa;Estado;Cidade;Genero;Idade;Profissao
+1;SP;São Paulo;Outro;33;Enfermeiro
+2;RJ;Petrópolis;Prefiro não dizer;39;Gestor Financeiro
+3;SP;São Paulo;Feminino;36;Professor
+4;SP;Campinas;Masculino;38;Advogado
+5;RJ;Rio de Janeiro;Prefiro não dizer;23;Analista de Dados
+6;RS;Porto Alegre;Prefiro não dizer;18;Gestor Financeiro
+7;RJ;Rio de Janeiro;Feminino;54;Professor
+8;BA;Feira de Santana;Masculino;33;Enfermeiro
+9;RJ;Niterói;Prefiro não dizer;30;Professor
+10;RJ;Rio de Janeiro;Prefiro não dizer;53;Professor
+11;RJ;Niterói;Feminino;21;Técnico em Informática
+12;BA;Salvador;Prefiro não dizer;60;Técnico em Informática
+13;MG;Belo Horizonte;Feminino;41;Gestor Financeiro
+14;BA;Feira de Santana;Outro;21;Professor
+15;BA;Vitória da Conquista;Feminino;45;Engenheiro de Software
+16;RJ;Niterói;Feminino;62;Professor
+17;SP;Santos;Feminino;55;Gestor Financeiro
+18;MG;Juiz de Fora;Outro;60;Professor
+19;RS;Pelotas;Outro;47;Administrador
+20;BA;Salvador;Prefiro não dizer;44;Enfermeiro
+21;RS;Pelotas;Prefiro não dizer;53;Administrador
+22;RS;Pelotas;Feminino;63;Enfermeiro
+23;RS;Porto Alegre;Outro;45;Administrador
+24;SP;Santos;Prefiro não dizer;38;Enfermeiro
+25;RJ;Niterói;Masculino;54;Enfermeiro
+26;MG;Juiz de Fora;Masculino;54;Analista de Dados
+27;RS;Pelotas;Outro;38;Enfermeiro
+28;BA;Salvador;Masculino;33;Advogado
+29;RS;Caxias do Sul;Outro;34;Enfermeiro
+30;MG;Belo Horizonte;Feminino;35;Analista de Dados
+31;SP;São Paulo;Feminino;27;Gestor Financeiro
+32;RJ;Niterói;Masculino;28;Enfermeiro
+33;RJ;Niterói;Feminino;22;Analista de Dados
+34;SP;Campinas;Masculino;61;Gestor Financeiro
+35;RS;Caxias do Sul;Prefiro não dizer;53;Analista de Dados
+36;MG;Juiz de Fora;Feminino;36;Administrador
+37;BA;Vitória da Conquista;Outro;44;Administrador
+38;RS;Pelotas;Prefiro não dizer;40;Designer
+39;BA;Vitória da Conquista;Outro;24;Administrador
+40;RJ;Petrópolis;Outro;32;Professor
+41;RJ;Rio de Janeiro;Prefiro não dizer;57;Enfermeiro
+42;RJ;Niterói;Prefiro não dizer;24;Enfermeiro
+43;SP;São Paulo;Outro;46;Analista de Dados
+44;RS;Porto Alegre;Feminino;32;Advogado
+45;RS;Pelotas;Outro;59;Advogado
+46;SP;Santos;Feminino;46;Administrador
+47;BA;Salvador;Feminino;32;Designer
+48;RS;Pelotas;Masculino;65;Professor
+49;SP;São Paulo;Outro;56;Engenheiro de Software
+50;RS;Porto Alegre;Prefiro não dizer;39;Administrador
+51;SP;Sorocaba;Outro;60;Advogado
+52;BA;Vitória da Conquista;Masculino;56;Gestor Financeiro
+53;MG;Uberlândia;Outro;54;Professor
+54;BA;Vitória da Conquista;Outro;20;Enfermeiro
+55;RS;Pelotas;Masculino;45;Analista de Dados
+56;BA;Feira de Santana;Masculino;43;Gestor Financeiro
+57;RJ;Petrópolis;Prefiro não dizer;47;Administrador
+58;MG;Uberlândia;Masculino;59;Professor
+59;SP;Campinas;Prefiro não dizer;46;Técnico em Informática
+60;SP;Campinas;Outro;37;Advogado
+61;RJ;Rio de Janeiro;Feminino;22;Gestor Financeiro
+62;BA;Feira de Santana;Prefiro não dizer;32;Técnico em Informática
+63;BA;Salvador;Outro;23;Engenheiro de Software
+64;SP;Santos;Feminino;26;Analista de Dados
+65;RJ;Niterói;Prefiro não dizer;22;Professor
+66;BA;Vitória da Conquista;Masculino;42;Administrador
+67;RJ;Rio de Janeiro;Prefiro não dizer;20;Gestor Financeiro
+68;RS;Caxias do Sul;Outro;29;Administrador
+69;RJ;Petrópolis;Prefiro não dizer;40;Administrador
+70;BA;Salvador;Feminino;61;Administrador
+71;RJ;Petrópolis;Outro;62;Administrador
+72;RJ;Rio de Janeiro;Feminino;49;Analista de Dados
+73;BA;Feira de Santana;Feminino;53;Engenheiro de Software
+74;BA;Vitória da Conquista;Feminino;55;Engenheiro de Software
+75;RS;Caxias do Sul;Prefiro não dizer;22;Analista de Dados
+76;RS;Porto Alegre;Feminino;24;Analista de Dados
+77;RJ;Rio de Janeiro;Outro;21;Analista de Dados
+78;RS;Pelotas;Prefiro não dizer;53;Gestor Financeiro
+79;BA;Feira de Santana;Feminino;56;Técnico em Informática
+80;BA;Feira de Santana;Masculino;56;Administrador
+81;RJ;Niterói;Feminino;44;Técnico em Informática
+82;RJ;Niterói;Outro;32;Gestor Financeiro
+83;MG;Juiz de Fora;Prefiro não dizer;31;Enfermeiro
+84;BA;Salvador;Prefiro não dizer;59;Administrador
+85;MG;Juiz de Fora;Masculino;39;Gestor Financeiro
+86;BA;Feira de Santana;Masculino;43;Professor
+87;RS;Caxias do Sul;Feminino;43;Técnico em Informática
+88;BA;Vitória da Conquista;Outro;22;Professor
+89;BA;Salvador;Prefiro não dizer;61;Gestor Financeiro
+90;MG;Uberlândia;Prefiro não dizer;42;Advogado
+91;MG;Belo Horizonte;Outro;30;Professor
+92;RJ;Petrópolis;Outro;54;Designer
+93;RS;Porto Alegre;Outro;42;Engenheiro de Software
+94;MG;Belo Horizonte;Feminino;21;Gestor Financeiro
+95;RS;Porto Alegre;Outro;36;Advogado
+96;BA;Vitória da Conquista;Prefiro não dizer;36;Engenheiro de Software
+97;SP;São Paulo;Masculino;44;Engenheiro de Software
+98;SP;Sorocaba;Feminino;24;Professor
+99;RS;Caxias do Sul;Prefiro não dizer;21;Analista de Dados
+100;MG;Belo Horizonte;Feminino;55;Engenheiro de Software
+101;BA;Vitória da Conquista;Prefiro não dizer;38;Analista de Dados
+102;RS;Caxias do Sul;Outro;24;Professor
+103;RS;Porto Alegre;Outro;44;Advogado
+104;SP;Santos;Outro;33;Administrador
+105;MG;Belo Horizonte;Prefiro não dizer;38;Gestor Financeiro
+106;SP;Sorocaba;Prefiro não dizer;26;Gestor Financeiro
+107;RJ;Petrópolis;Masculino;54;Advogado
+108;SP;Santos;Prefiro não dizer;23;Professor
+109;SP;Campinas;Feminino;51;Engenheiro de Software
+110;SP;São Paulo;Feminino;41;Designer
+111;MG;Belo Horizonte;Feminino;37;Professor
+112;RS;Pelotas;Masculino;40;Analista de Dados
+113;BA;Feira de Santana;Feminino;47;Administrador
+114;SP;Sorocaba;Masculino;33;Enfermeiro
+115;RJ;Niterói;Masculino;35;Engenheiro de Software
+116;RS;Caxias do Sul;Outro;55;Analista de Dados
+117;SP;Sorocaba;Masculino;25;Engenheiro de Software
+118;SP;São Paulo;Feminino;48;Professor
+119;MG;Belo Horizonte;Prefiro não dizer;26;Engenheiro de Software
+120;RJ;Rio de Janeiro;Outro;59;Professor
+121;RS;Pelotas;Masculino;51;Analista de Dados
+122;RS;Pelotas;Prefiro não dizer;23;Técnico em Informática
+123;RS;Porto Alegre;Prefiro não dizer;57;Analista de Dados
+124;RS;Caxias do Sul;Masculino;34;Professor
+125;MG;Uberlândia;Feminino;29;Analista de Dados
+126;MG;Uberlândia;Outro;23;Técnico em Informática
+127;BA;Feira de Santana;Masculino;39;Analista de Dados
+128;BA;Salvador;Prefiro não dizer;22;Analista de Dados
+129;MG;Uberlândia;Masculino;52;Designer
+130;SP;Sorocaba;Prefiro não dizer;53;Técnico em Informática
+131;RJ;Rio de Janeiro;Outro;25;Analista de Dados
+132;RS;Caxias do Sul;Prefiro não dizer;21;Professor
+133;BA;Salvador;Masculino;35;Analista de Dados
+134;BA;Salvador;Outro;54;Engenheiro de Software
+135;MG;Belo Horizonte;Masculino;27;Engenheiro de Software
+136;MG;Juiz de Fora;Outro;26;Engenheiro de Software
+137;MG;Uberlândia;Masculino;34;Enfermeiro
+138;RS;Porto Alegre;Masculino;36;Analista de Dados
+139;SP;São Paulo;Outro;31;Enfermeiro
+140;RJ;Rio de Janeiro;Masculino;31;Engenheiro de Software
+141;RS;Caxias do Sul;Outro;32;Gestor Financeiro
+142;RS;Pelotas;Masculino;50;Técnico em Informática
+143;RS;Pelotas;Prefiro não dizer;53;Designer
+144;MG;Uberlândia;Prefiro não dizer;54;Administrador
+145;SP;Campinas;Feminino;37;Administrador
+146;RJ;Rio de Janeiro;Masculino;33;Analista de Dados
+147;RJ;Niterói;Masculino;36;Analista de Dados
+148;MG;Uberlândia;Prefiro não dizer;40;Administrador
+149;MG;Juiz de Fora;Outro;35;Gestor Financeiro
+150;RJ;Petrópolis;Prefiro não dizer;60;Designer
+151;MG;Juiz de Fora;Outro;47;Professor
+152;RJ;Niterói;Feminino;23;Administrador
+153;SP;Campinas;Outro;18;Designer
+154;RS;Pelotas;Feminino;39;Administrador
+155;SP;São Paulo;Masculino;62;Professor
+156;SP;São Paulo;Prefiro não dizer;30;Enfermeiro
+157;SP;São Paulo;Masculino;34;Enfermeiro
+158;BA;Feira de Santana;Masculino;41;Designer
+159;BA;Feira de Santana;Outro;57;Analista de Dados
+160;MG;Juiz de Fora;Prefiro não dizer;27;Técnico em Informática
+161;RS;Caxias do Sul;Prefiro não dizer;23;Administrador
+162;SP;Campinas;Prefiro não dizer;39;Técnico em Informática
+163;SP;Santos;Feminino;30;Professor
+164;BA;Salvador;Feminino;64;Engenheiro de Software
+165;RJ;Rio de Janeiro;Outro;61;Designer
+166;SP;São Paulo;Feminino;35;Engenheiro de Software
+167;RS;Pelotas;Outro;53;Analista de Dados
+168;SP;Sorocaba;Outro;53;Gestor Financeiro
+169;BA;Salvador;Feminino;44;Técnico em Informática
+170;SP;Santos;Prefiro não dizer;25;Advogado
+171;RS;Porto Alegre;Feminino;52;Advogado
+172;MG;Belo Horizonte;Prefiro não dizer;61;Professor
+173;BA;Salvador;Feminino;65;Advogado
+174;BA;Salvador;Feminino;29;Enfermeiro
+175;RJ;Rio de Janeiro;Outro;57;Professor
+176;MG;Belo Horizonte;Outro;48;Administrador
+177;SP;Santos;Prefiro não dizer;59;Engenheiro de Software
+178;BA;Vitória da Conquista;Feminino;65;Administrador
+179;BA;Vitória da Conquista;Feminino;42;Advogado
+180;RJ;Rio de Janeiro;Feminino;28;Designer
+181;SP;Campinas;Outro;29;Técnico em Informática
+182;MG;Uberlândia;Masculino;32;Advogado
+183;BA;Vitória da Conquista;Masculino;61;Advogado
+184;MG;Belo Horizonte;Masculino;63;Analista de Dados
+185;RS;Porto Alegre;Prefiro não dizer;53;Técnico em Informática
+186;RS;Pelotas;Masculino;23;Engenheiro de Software
+187;BA;Feira de Santana;Feminino;20;Técnico em Informática
+188;BA;Vitória da Conquista;Outro;40;Gestor Financeiro
+189;RS;Pelotas;Prefiro não dizer;33;Designer
+190;RS;Pelotas;Outro;22;Técnico em Informática
+191;SP;Sorocaba;Masculino;52;Analista de Dados
+192;RS;Pelotas;Feminino;47;Professor
+193;RJ;Niterói;Prefiro não dizer;31;Advogado
+194;RJ;Niterói;Prefiro não dizer;26;Técnico em Informática
+195;BA;Vitória da Conquista;Outro;40;Analista de Dados
+196;MG;Uberlândia;Prefiro não dizer;22;Professor
+197;MG;Juiz de Fora;Masculino;31;Engenheiro de Software
+198;RJ;Rio de Janeiro;Feminino;19;Analista de Dados
+199;SP;Sorocaba;Outro;41;Advogado
+200;BA;Feira de Santana;Feminino;44;Técnico em Informática
