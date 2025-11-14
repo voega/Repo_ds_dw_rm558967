@@ -1,0 +1,51 @@
+{
+	"name": "dataflow1",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "ORIGEM",
+						"type": "DatasetReference"
+					},
+					"name": "pesquisatrabalhofuturo"
+				},
+				{
+					"dataset": {
+						"referenceName": "ORIGEM",
+						"type": "DatasetReference"
+					},
+					"name": "trabalhofuturocaracteristicas"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "ORIGEM",
+						"type": "DatasetReference"
+					},
+					"name": "DESTINO"
+				}
+			],
+			"transformations": [
+				{
+					"name": "union1"
+				}
+			],
+			"scriptLines": [
+				"source(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> pesquisatrabalhofuturo",
+				"source(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false) ~> trabalhofuturocaracteristicas",
+				"pesquisatrabalhofuturo, trabalhofuturocaracteristicas union(byName: true)~> union1",
+				"union1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> DESTINO"
+			]
+		}
+	}
+}
